@@ -330,3 +330,18 @@ li:after {
   padding-right: 50px;
   padding-left: 25px;
 }
+
+.aboutme{
+  padding-right: 200px;
+}
+
+.aboutme-img{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding-right:200px;
+}
+
+.xp{
+  padding-right: 30px;
+  height: 72px; 
+  width: 77;
+}
